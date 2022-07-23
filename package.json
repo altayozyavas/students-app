@@ -1,0 +1,11 @@
+{
+  "name": "students-app",
+  "version": "1.0.0",
+  "description": "Web based application for schools. You can perform all o\u001b[\u001b[C\u001b[C\u001b\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[3~tudents info.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --w"
+  },
+  "author": "Altay Ozyavas",
+  "license": "ISC"
+}
